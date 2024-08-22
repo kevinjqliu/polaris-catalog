@@ -23,7 +23,7 @@ Apache Polaris™ is an open-source, fully-featured catalog for Apache Iceberg�
 enabling seamless multi-engine interoperability across a wide range of platforms, including Apache Doris™, Apache Flink®,
 Apache Spark™, StarRocks, and Trino.
 
-Documentation is available at https://polaris.io, including
+Documentation is available at https://polaris.apache.org, including
 [Polaris management API doc](https://polaris.io/index.html#tag/polaris-management-service_other)
 and [Apache Iceberg REST API doc](https://polaris.io/index.html#tag/Configuration-API).
 
