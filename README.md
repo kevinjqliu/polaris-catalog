@@ -17,6 +17,8 @@
   under the License.
 -->
 
+https://does-not-exist.com/alksdfja;lskdjfl;sajl;
+
 # Apache Polaris (incubating)
 
 Apache Polaris&trade; is an open-source, fully-featured catalog for Apache Iceberg&trade;. It implements Iceberg's 
